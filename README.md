@@ -1,0 +1,1 @@
+This example uses standard input (StdIn) to receive messages from the user and provides simple responses based on matching patterns. You can expand and customize the chatbot logic based on your specific needs. Additionally, you could consider using libraries like Akka to implement an actor system that handles the chatbot logic in a more scalable way.
